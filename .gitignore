@@ -109,7 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+Theoretical_Questions_and_Simple_Programming/cast.csv
 # Spyder project settings
 .spyderproject
 .spyproject
